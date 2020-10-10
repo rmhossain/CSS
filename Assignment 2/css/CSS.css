@@ -1,0 +1,19 @@
+/*background set to red*/
+body{
+    background-color: tomato;
+    color: black;
+    padding:5%;
+    margin: 5%;
+
+    font-family: 'Adamina';font-size: 22px;
+  }
+#i1{
+left: auto;
+height: 25%;
+width: 25%;
+}
+#i2{
+right:100%;
+height: 25%;
+width: 25%;
+}
