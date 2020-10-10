@@ -4,3 +4,7 @@ p{
 body{
     background-color: tomato;
 }
+* {
+      font-family: 'Adamina';
+      font-size: 22px;
+    }
